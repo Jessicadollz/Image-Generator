@@ -7,7 +7,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const inputRef = useRef(null);
 
-  const token = "677a85ca2amsh918a6d32fe5c1bep15b3dejsn43de075a92a6";
+  const token = "a2105f2d24msha9d359bd445f97dp1e3a6ejsn455bd2d9e6b2";
 
   async function query() {
     setLoading(true);
